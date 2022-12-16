@@ -10,3 +10,4 @@
 | Breath Relaxer App     | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Breath%20Relaxer%20App)      | HTML,CSS,JS |
 | Flashcard              | [Link](<https://github.com/sajjad-10/practice-project-front/tree/main/Flashcard%20(memory)>)      | HTML,CSS,JS |
 | Infinite Scroll - post | [Link](<https://github.com/sajjad-10/practice-project-front/tree/main/Flashcard%20(memory)>)      | HTML,CSS,JS |
+| New year Countdown | [Link](<https://github.com/sajjad-10/practice-project-front/tree/main/Flashcard%20(memory)>)      | HTML,CSS,JS |
