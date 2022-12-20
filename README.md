@@ -12,4 +12,5 @@
 | Infinite Scroll - post | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Infinite%20Scroll%20-%20post%20-%20fetch) | HTML,CSS,JS | Fetch, Async Await, CSS loader, API |
 | New year Countdown     | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/New%20year%20Countdown)                   | HTML,CSS,JS | DOM, Data & Time                    |
 | Sortable List          | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Sortable%20List)                          | HTML,CSS,JS | Drag & Drop, API                    |
-| Random Choirs Picker   | [Link](<https://github.com/sajjad-10/practice-project-front/tree/main/Flashcard%20(memory)>)                   | HTML,CSS,JS | DOM, Array Method, setTimeout       |
+| Random Choirs Picker   | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Random%20Choirs%20Picker)                 | HTML,CSS,JS | DOM, Array Method, Timing Events    |
+| Feedback Boxes          | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Random%20Choirs%20Picker)                 | HTML,CSS,JS | DOM, Loop, Event Bubbling           |
