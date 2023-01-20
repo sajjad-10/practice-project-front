@@ -14,22 +14,24 @@ This project is used :
 
 This project is used :
 
--   forEach()
--   switch
--   object
--   includes
+-   Array from() forEach()
+-   includes() toLowerCase()
 
-## In BOM we use
+<!-- ## In BOM we use
 
 This project is used :
 
--   Event hashchange
--   location
--   state
+-   history
+-   pushState()
+-   state -->
 
 ## In DOM we use
 
 This project is used :
 
--   innerText
+-   addEventListener("click"), target
+-   nodeName, parentNode
+-   appendChild()
+-   createElement
 -   style
+-   nodeName
