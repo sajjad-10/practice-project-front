@@ -16,5 +16,6 @@
 | Feedback Boxes         | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Random%20Choirs%20Picker)                 | HTML,CSS,JS | DOM, Loop, Event Bubbling                          |
 | State                  | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/State)                                    | HTML,CSS,JS | BOM, pushState(), DOM, switch ,forEach()           |
 | Hash                   | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Hash)                                     | HTML,CSS,JS | hashchange Event,includes()                        |
-| Todo List              | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Hash)                                     | HTML,CSS,JS | DOM, toLowerCase(), includes(), from(), forEach(), |
-| Music Player           | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Hash)                                     | HTML,CSS,JS | DOM, canplay - timeupdate Event, new Audio()       |
+| Todo List              | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Todo%20List)                              | HTML,CSS,JS | DOM, toLowerCase(), includes(), from(), forEach(), |
+| Music Player           | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Music%20player)                           | HTML,CSS,JS | DOM, canplay - timeupdate Event, new Audio()       |
+| Canvas                 | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Canvas)                                   | HTML,CSS,JS |                                                    |
