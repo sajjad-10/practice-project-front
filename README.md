@@ -1,10 +1,14 @@
+title: New Issue
+
 # practice-project-front
 
 ## List of API
 
-| Name        | API Link                      | Description |
-| ----------- | ----------------------------- | ----------- |
-| Random User | [Link](https://randomuser.me) |             |
+| Name        | API Link                           | Description |
+| ----------- | ---------------------------------- | ----------- |
+| Random User | [Link](https://randomuser.me)      |             |
+| Movie       | [Link](https://www.themoviedb.org) |             |
+| tsst       | [Link]({{title}}) |             |
 
 ## List of Projects
 
@@ -20,6 +24,7 @@
 | Hoverboard             | [Link](https://github.com/sajjad-10/practice-project-front/) [Demo](https://codepen.io/sajjad-10/pen/oNPjXRr)  | HTML,CSS,JS     | hashchange Event,includes()                                          |
 | Infinite Scroll - post | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Infinite%20Scroll%20-%20post%20-%20fetch) | HTML,CSS,JS     | Fetch, Async Await, CSS loader, API                                  |
 | Menu Slider & Modal    | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Menu%20Slider%20%26%20Modal)              | HTML,CSS,JS     | DOM , CSS                                                            |
+| Movie App              | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Menu%20Slider%20%26%20Modal)              | HTML,CSS,JS     | DOM , CSS                                                            |
 | Movie Seat Booking     | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Movie%Seat%Booking)                       | HTML,CSS,JS     | DOM, Local Storage                                                   |
 | Music Player           | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/Music%20player)                           | HTML,CSS,JS     | DOM, canplay - timeupdate Event, new Audio()                         |
 | New year Countdown     | [Link](https://github.com/sajjad-10/practice-project-front/tree/main/New%20year%20Countdown)                   | HTML,CSS,JS     | DOM, Data & Time                                                     |
