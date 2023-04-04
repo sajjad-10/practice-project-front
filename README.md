@@ -1,5 +1,3 @@
-title: New Issue
-
 # practice-project-front
 
 ## List of API
@@ -8,7 +6,6 @@ title: New Issue
 | ----------- | ---------------------------------- | ----------- |
 | Random User | [Link](https://randomuser.me)      |             |
 | Movie       | [Link](https://www.themoviedb.org) |             |
-| tsst       | [Link]({{title}}) |             |
 
 ## List of Projects
 
