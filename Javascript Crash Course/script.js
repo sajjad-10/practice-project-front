@@ -1,19 +1,8 @@
-// data type - Reference - Object
-// regular data
+// data type - Reference - Array
+// Reference data
 
-let name = "Sajjad",
-    age = 25,
-    admin = true;
-console.log(name, age, admin);
+let arrayItems = ["sajjad", 25] // create - array literal
 
-// in object
+arrayItems[2] = true // add item 
 
-let person = {
-    name: "Sajjad",
-    age: 25,
-    admin: true,
-};
-
-console.log(person);
-console.log(person.sajjad); // dot notion
-console.log(person["age"]); // bracket notion
+arrayItems.length // have property ( array actually is object )
