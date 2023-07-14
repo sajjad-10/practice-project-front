@@ -17,4 +17,21 @@ let circle = {
     },
 };
 
-circle.draw()
+// circle.draw()
+
+/* factory function */
+
+function createCircle(radius, location){
+    return {
+        radius: radius,
+        location: location,
+        isVisible: true,
+        draw: function () {
+            console.log("Draw");
+        },
+    };
+}
+
+let circle1 = createCircle(1,2)
+let circle2 = createCircle(4,6)
+console.log(circle1);
