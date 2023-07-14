@@ -1,7 +1,9 @@
 let radius = 1;
 let x = 1;
 let y = 1;
-function draw(){console.log("Draw");}
+function draw() {
+    console.log("Draw");
+}
 
 // object literal
 
@@ -21,7 +23,7 @@ let circle = {
 
 /* factory function */
 
-function createCircle(radius, location){
+function createCircle(radius, location) {
     return {
         radius: radius,
         location: location,
@@ -32,6 +34,18 @@ function createCircle(radius, location){
     };
 }
 
-let circle1 = createCircle(1,2)
-let circle2 = createCircle(4,6)
-console.log(circle1);
+// let circle1 = createCircle(1,2)
+// let circle2 = createCircle(4,6)
+// console.log(circle1);
+
+/* Constructor Function */
+function CreateCircle(radius, location) {
+    this.radius = radius;
+    this.location = location;
+    this.draw = function () {
+        console.log("Draw");
+    };
+}
+
+const circle3 = new CreateCircle(3,4)
+console.log(circle3);
